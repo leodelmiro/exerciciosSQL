@@ -10,5 +10,10 @@
 
 # [Select By ID](https://github.com/leodelmiro/exerciciosSQL/blob/master/SelectByID.sql)
 
-![Select By ID](blob:https://imgur.com/9ecc010c-d6af-4b99-83c4-b17320da81e6)
+![Select By ID](https://imgur.com/9ecc010c-d6af-4b99-83c4-b17320da81e6)
+
+# [Japanese Cities' Attributes](https://github.com/leodelmiro/exerciciosSQL/blob/master/JapaneseCitiesAttributes.sql)
+
+![Japanese Cities' Attributes](https://i.imgur.com/clp3gAk.png)
+
 
