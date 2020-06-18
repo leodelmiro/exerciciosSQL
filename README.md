@@ -20,4 +20,8 @@
 
 ![Select All](https://i.imgur.com/clp3gAk.png)
 
+# [Japanese Cities' Names](https://github.com/leodelmiro/exerciciosSQL/blob/master/JapaneseCitiesNames.sql)
+
+![Japanese Cities' Names](https://i.imgur.com/gB3PK59.png)
+
 
