@@ -24,4 +24,9 @@
 
 ![Japanese Cities' Names](https://i.imgur.com/gB3PK59.png)
 
+# [Japan Population](https://github.com/leodelmiro/exerciciosSQL/blob/master/JapanPopulation.sql)
+
+![Japan Population](https://i.imgur.com/LJifJEZ.png)
+
+
 
