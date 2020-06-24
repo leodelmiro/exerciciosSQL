@@ -28,13 +28,17 @@
 
 ![Japan Population](https://i.imgur.com/LJifJEZ.png)
 
+# [Population Density Difference](https://github.com/leodelmiro/exerciciosSQL/blob/master/PopulationDensityDifference.sql)
+
+![Population Density Difference](https://i.imgur.com/jjVZFCc.png)
+
 # [Weather Observation Station 1](https://github.com/leodelmiro/exerciciosSQL/blob/master/WeatherObservationStation1.sql)
 
 ![Weather Observation Station 1](https://i.imgur.com/oVWtbci.png)
 
-# [Population Density Difference](https://github.com/leodelmiro/exerciciosSQL/blob/master/PopulationDensityDifference.sql)
+# [Weather Observation Station 2](https://github.com/leodelmiro/exerciciosSQL/blob/master/WeatherObservationStation2.sql)
 
-![Population Density Difference](https://i.imgur.com/jjVZFCc.png)
+![Weather Observation Station 2](https://i.imgur.com/KAgCSjB.png)
 
 
 
