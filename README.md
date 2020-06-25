@@ -44,5 +44,9 @@
 
 ![Weather Observation Station 3](https://i.imgur.com/OEAXIF1.png)
 
+# [Weather Observation Station 4](https://github.com/leodelmiro/exerciciosSQL/blob/master/WeatherObservationStation4.sql)
+
+![Weather Observation Station 4](https://i.imgur.com/33O6sbx.png)
+
 
 
