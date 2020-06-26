@@ -52,5 +52,10 @@
 
 ![Weather Observation Station 5](https://i.imgur.com/31dcQdX.png)
 
+# [Weather Observation Station 6](https://github.com/leodelmiro/exerciciosSQL/blob/master/WeatherObservationStation6.sql)
+
+![Weather Observation Station 6](https://i.imgur.com/KlPzgkQ.png)
+
+
 
 
